@@ -4,12 +4,11 @@ Hi 👋 My name is Cauê Mondek
 FullStack Developer | DevOps
 ----------------------------
 
-I've practice development for almost 2 years, today I focus on learning frameworks, new practices in backend languages ​​(.NET and NodeJS) and ways to maintain clean, quality code.
+I've practice development for almost 2 years, today I focus on learning frameworks, new practices in backend languages ​​(.NET and Node.js) and ways to maintain clean, quality code.
 
 * 🌍  I'm based in Brazil
 * 🖥️  See my portfolio at [here](http://cauemondek.github.io/portfolio/)
 * ✉️  You can contact me at [cauemondekk@gmail.com](mailto:cauemondekk@gmail.com)
-* 🧠  I'm learning ASP.NET and Linux
 * ⚡  I really like games and anime, i'm a practitioner of the martial arts Kendô and Iaidô
 
 ### Skills
