@@ -11,7 +11,8 @@
   <a href="https://br.fiverr.com/cauemondek">
     <img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white">
   </a>
-  
+  <br>
+  <a href="https://wakatime.com/@66d0c610-ae61-4696-b835-0078d7bba040"><img src="https://wakatime.com/badge/user/66d0c610-ae61-4696-b835-0078d7bba040.svg" alt="Total time coded since Sep 3 2024" /></a>
 </div>
 <br>
 
