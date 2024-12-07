@@ -21,7 +21,8 @@
 <br>
 
 🖥️  See my portfolio at [here](http://cauemondek.github.io/portfolio/)
-  
+<br>
+💼  Backend Developer at [IP Solution](https://ipsolutiontelecom.com.br/)
 </div>
 
 <hr>
