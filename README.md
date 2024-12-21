@@ -1,5 +1,5 @@
 <img src="https://github.com/user-attachments/assets/20b7157f-c7a2-43ae-85a2-770ed5c5a84c" alt="ilustração de um computador" min-width="300px" max-width="300px" width="400px" align="right">
-<h3 align="center">👋 Hi! Welcome! I'm a FullStack Developer</h3>
+<h3 align="center">👋 Hi! Welcome! I'm a Back-end Developer</h3>
 
 <div align="center">
   <a href="mailto:cauemondekk@gmail.com">
